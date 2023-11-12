@@ -1,11 +1,11 @@
-<p align="center"> <img alt="ada lovelace" src="docs/_media/teste.png" width="200"> </p>
+<p align="center"> <img alt="ada lovelace" src="/_media/teste.png" width="200"> </p>
 
 <h2 align="center"> Comunidade das minas de CC! <3 </h2>
 <br>
 <p align="center"> 
-  <a href=""><img alt="github" src="docs/_media/github.png" width="40"></a>
-  <a href=""><img alt="discord" src="docs/_media/discord.png" width="40"></a>
-  <a href=""><img alt="instagram" src="docs/_media/instagram.png" width="40"></a>
+  <a href=""><img alt="github" src="/_media/github.png" width="40"></a>
+  <a href=""><img alt="discord" src="/_media/discord.png" width="40"></a>
+  <a href=""><img alt="instagram" src="/_media/instagram.png" width="40"></a>
 </p>
 
 ## Do que se trata?
@@ -19,7 +19,7 @@ Com o intuito de agregar no curso de Ciência da Computação e na trilha das in
 Gostou da idéia? Veja mais sobre o curso e outras iniciativas!
 
 <p align="center"> 
-  <a href="https://cc.uffs.edu.br/"><img alt="github" src="docs/_media/cc-logo-black-on-bg-transparent.png" width="500"></a>
+  <a href="https://cc.uffs.edu.br/"><img alt="github" src="/_media/cc-logo-black-on-bg-transparent.png" width="500"></a>
 </p>
 
 
