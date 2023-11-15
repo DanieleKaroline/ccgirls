@@ -11,4 +11,4 @@ A tecnologia é um campo amplo e que deve ter mais representação feminina no s
 > **Acesse:** https://phpwomen.org.br//
 
 
-<small>Autora: - <a href="https://github.com/luisafkroth">Luisa Feil Kroth</a></small>S
+<small>Autora: - <a href="https://github.com/luisafkroth">Luisa Feil Kroth</a></small>
