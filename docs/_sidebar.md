@@ -7,6 +7,7 @@
     - [WoMakersCode](womakers.md)
     - [PrograMaria](programaria.md)
     - [Listão](lista-projetos.md)
+    - [PHPWomenBr](phpwomenbr.md)
 - Dá uma olhada
     - [O que está sendo feito?](oq-esta-sendo-feito.md)
 - Social
