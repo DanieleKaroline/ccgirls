@@ -6,7 +6,7 @@
 - Dicas de conteúdos e iniciativas
     - [WoMakersCode](womakers.md)
     - [PrograMaria](programaria.md)
-    - [Listão](lista-projetos.md)
+    - [Listão das Influencer](lista-influencers.md)
     - [PHPWomenBr](phpwomenbr.md)
 - Dá uma olhada
     - [O que está sendo feito?](oq-esta-sendo-feito.md)
