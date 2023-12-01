@@ -1,3 +1,5 @@
+<p align="center"> <img src="_media/ccgirls-logo.png" width="150"></p>
+
 - Inicio
     - [Home]()
 - Por onde começo?
